@@ -1,0 +1,22 @@
+name: indigo_yield
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - matplotlib    
+  - pandas=0.23.4
+  - dask
+  - jupyter
+  - numpy
+  - joblib
+  - pathlib 
+  - cython 
+  - rtree  
+  - scikit-learn
+  - nb_conda_kernels 
+  - xgboost
+  - spyder
+  - seaborn
+  - pip:
+     - ggplot
+     - tsfresh
