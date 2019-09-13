@@ -19,4 +19,4 @@ dependencies:
   - seaborn
   - pip:
      - ggplot
-     - tsfresh
+ 
